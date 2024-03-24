@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: OpenWrt gf
+name: OpenWrt gf23.05
 
 on:
   repository_dispatch:
